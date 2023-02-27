@@ -10,5 +10,5 @@ spec:
     resources:
       requests:
         cpu: "0.5"
-        memory: "255Mi"
+        memory: "1Gi"
   restartPolicy: Never
