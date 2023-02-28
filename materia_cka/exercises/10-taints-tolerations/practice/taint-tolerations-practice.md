@@ -1,5 +1,4 @@
 # Practice Test - Taints and Tolerations
-  - Take me to [Practice Test](https://kodekloud.com/topic/practice-test-taints-and-tolerations/)
 
 Solutions to the Practice Test - Taints and Tolerations
 
